@@ -1,0 +1,4 @@
+C:\Users\remzi\Desktop\C# Kampı\Donguler\donguler\obj\Debug\netcoreapp3.1\donguler.csprojAssemblyReference.cache
+C:\Users\remzi\Desktop\C# Kampı\Donguler\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\remzi\Desktop\C# Kampı\Donguler\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\remzi\Desktop\C# Kampı\Donguler\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.CoreCompileInputs.cache
