@@ -1,0 +1,12 @@
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/bin/Debug/netcoreapp3.1/Colleksiyon.deps.json
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/bin/Debug/netcoreapp3.1/Colleksiyon.runtimeconfig.json
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/bin/Debug/netcoreapp3.1/Colleksiyon.runtimeconfig.dev.json
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/bin/Debug/netcoreapp3.1/Colleksiyon.dll
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/bin/Debug/netcoreapp3.1/Colleksiyon.pdb
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.csprojAssemblyReference.cache
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.AssemblyInfoInputs.cache
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.AssemblyInfo.cs
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.csproj.CoreCompileInputs.cache
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.dll
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.pdb
+/Users/tofluoglu/Desktop/Colleksiyon/Colleksiyon/obj/Debug/netcoreapp3.1/Colleksiyon.genruntimeconfig.cache
